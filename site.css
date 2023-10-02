@@ -1,0 +1,12 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main {
+    background-color: slategrey; padding: 4px; color: #101010;
+}
+
+h1, h2 {
+    color: darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
